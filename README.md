@@ -1,7 +1,1 @@
-# luffy
-my first repo
-<br>
-oda 
-eichiro oda
-#ola
-imu returns
+this doc contains some of most important notes
